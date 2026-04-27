@@ -26,7 +26,7 @@ Hello! If you're reading this, you're probably looking for someone who can code 
 # 🤖 AI / ML
 
 <p align="center">
-  <img src="https://i.imgur.com/dKv3Gub.gif" alt="Trying to escape the letterboxing" width="420" />
+  <img src="https://i.imgur.com/2myc0Ra.gif" alt="Trying to escape the letterboxing" width="370" />
 </p>
 
 | Name | Link/Repo | Description | Features | Technologies |
