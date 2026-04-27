@@ -26,7 +26,29 @@ Hello! If you're reading this, you're probably looking for someone who can code 
 # 🤖 AI / ML
 
 <p align="center">
+  <i># 🤖 AI / ML
+
+<p align="center">
+  <i>Joined the dark side —</i><br>
   <img src="https://i.imgur.com/2myc0Ra.gif" alt="Trying to escape the letterboxing" width="370" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+| Name | Link/Repo | Description | Features | Technologies |
+| ---- | --------- | ----------- | -------- | ------------ |
+| <p align="center"><b>AI Project (Coming Soon)</b><br><img src="https://via.placeholder.com/260x160/000000/FFFFFF?text=Coming+Soon" alt="AI project preview placeholder" width="260" /></p> | 🚧 Demo soon / 🚧 Repo soon | Placeholder description for an upcoming AI-powered project. This space will showcase the project's purpose, the AI techniques it uses, and the problems it solves. | 🔄 AI-powered chat interface<br>🔄 Context-aware responses<br>🔄 Real-time streaming<br>🔄 Vector search & embeddings<br>🔄 Custom prompt engineering | <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" /><br><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" /><br><img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai" /><br><img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" /><br><img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss" /> | —</i><br>
+  <img src="https://i.imgur.com/2myc0Ra.gif" alt="Trying to escape the letterboxing" width="370" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 | Name | Link/Repo | Description | Features | Technologies |
