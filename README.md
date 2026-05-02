@@ -1,6 +1,21 @@
 # 👨‍💻 About Me
-Hello! If you're reading this, you're probably looking for someone who can code efficiently and isn't afraid of challenges. Well, look no further. I'm a developer who fell in love with frontend development. Learning and discovering new things is always exciting for me. In fact, I'm always on the lookout for my next exciting project. So, if you're interested in discussing how we can work together to make something awesome, let's chat!
-
+I'm Front-end Developer specializing in building responsive, animation-rich web experiences. 
+My stack:
+Currently expanding my skills into WordPress development.
+JavaScript,
+React,
+Vite,
+HTML5, 
+CSS3/SCSS,
+BEM methodology,
+Responsive Web Development,
+custom CSS animations, GSAP, framer motion and more, 
+NPM,
+ESLint,
+Git,
+Vercel,
+Clen code enforced.
+I work with an AI-assisted workflow (Claude Code, Cursor) — not as a shortcut, but as a tool to prototype faster and learn deeper.
 
 
 # 💻 Tech Stack
