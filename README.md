@@ -1,9 +1,10 @@
 # 👨‍💻 About Me
 I'm Front-end Developer specializing in building responsive, animation-rich web experiences. 
 My stack:
-Currently expanding my skills into WordPress development.
+Currently expanding my skills into React development.
 JavaScript,
 React,
+Redux,
 Vite,
 HTML5, 
 CSS3/SCSS,
