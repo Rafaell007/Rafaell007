@@ -27,7 +27,9 @@ I work with an AI-assisted workflow (Claude Code, Cursor) — not as a shortcut,
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764ABC" />
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite" />
   <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=88CE02" />
   <img src="https://img.shields.io/badge/Webflow-000000?style=for-the-badge&logo=webflow" />
