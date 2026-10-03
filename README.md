@@ -1,16 +1,19 @@
+
 # 👨‍💻 About Me
-I'm Front-end Developer specializing in building responsive, animation-rich web experiences. 
+I'm Front-end Developer specializing in building responsive, animation-rich web experiences.
 My stack:
 Currently expanding my skills into React development.
 JavaScript,
 React,
+TypeScript
 Redux,
 Vite,
-HTML5, 
+HTML5,
 CSS3/SCSS,
+Tailwind,
 BEM methodology,
 Responsive Web Development,
-custom CSS animations, GSAP, framer motion and more, 
+custom CSS animations, GSAP, framer motion and more,
 NPM,
 ESLint,
 Git,
@@ -36,6 +39,7 @@ I work with an AI-assisted workflow (Claude Code, Cursor) — not as a shortcut,
 
 | Name | Link/Repo | Description | Features | Technologies |
 | ---- | --------- | ----------- | -------- | ------------ |
+| <p align="center"><b>Restaurant CRM</b><br><img src="./assets/crm_preview.gif" alt="Restaurant CRM preview" width="260" /></p> | [Demo](https://crm-app-iota-one.vercel.app) / [Repo](https://github.com/Rafaell007/CRM-APP) | Staff management app for a restaurant. Two roles share one app: an **admin** manages employees and shifts, and a **waiter** works with tables and orders. Shift status comes from the clock, so nothing like "is working now" is stored in the database.<br>$\small \color{red}{\textit{(still in development)}}$ | ✅ Firebase Auth (email & password)<br>✅ Role-based protected routes (admin / waiter)<br>✅ Live shift status, including night shifts that cross midnight<br>✅ Employee filtering, sorting & expandable search<br>✅ Responsive table that collapses into rows on mobile<br>✅ Analytics dashboard with hand-written SVG charts (no chart library)<br>✅ 24h shift coverage bar & "working now" panel<br>✅ Unit tests (Vitest + Testing Library)<br>✅ TypeScript<br>🔄 Waiter view: tables & orders | <img src="https://img.shields.io/badge/React_19-000000?style=for-the-badge&logo=react" /><br><img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite" /><br><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" /><br><img src="https://img.shields.io/badge/Redux_Toolkit-000000?style=for-the-badge&logo=redux&logoColor=764ABC" /><br><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" /><br><img src="https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=reactrouter" /><br><img src="https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=6E9F18" /><br><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" /><br><img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=4B32C3" /> |
 | <p align="center"><b>Dragon Shop E-Commerce</b><br><img src="https://i.imgur.com/B3CQ5YK.gif" alt="Dragon Shop preview" width="260" /></p> | [Demo](https://dragon-shop-ecommerce.vercel.app) / [Repo](https://github.com/Rafaell007/dragon-shop-ecommerce) | Front-end e-commerce platform inspired by TokyoTiger's real store design, rebuilt with improved UI/UX and enhanced visuals. Product data fetched from the DummyJSON fake API. | ✅ Cart management (localStorage)<br>✅ Product details & reviews<br>✅ Category filtering<br>✅ GSAP & Motion animations<br>✅ Embla Carousel<br>✅ Responsive design<br>🔄 Bookmark (in progress)<br>✅ Searchbox <br>🔄 Chatbot (in progress) | <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" /><br><img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite" /><br><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" /><br><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" /><br><img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=88CE02" /><br><img src="https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white" /><br><img src="https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=5A29E4" /><br><img src="https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=reactrouter" /><br><img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=4B32C3" /> |
 | <p align="center"><b>Kloszart Teatr Offowy</b><br><img src="./assets/project_1.gif" alt="Kloszart preview" width="260" /></p> | [Demo](https://rafaell007.github.io/Kloszart-Website-PL/index.html#home-nav) / [Repo](https://github.com/Rafaell007/Kloszart-Website-PL) | Proposal for an aesthetic static website (HTML/CSS/JS), custom-made for the Kloszart Off Theater — landing page and subpages with a gallery, recruitment and information about performances, and a contact form. | ✅ Contact form<br>✅ Active calendar management<br>✅ GSAP animations<br>✅ Swiper slider<br>✅ EmailJS | <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" /><br><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" /><br><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" /><br><img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=88CE02" /><br><img src="https://img.shields.io/badge/Swiper-000000?style=for-the-badge&logo=swiper" /><br><img src="https://img.shields.io/badge/EmailJS-000000?style=for-the-badge&logo=gmail" /> |
 
