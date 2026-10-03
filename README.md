@@ -1,4 +1,3 @@
-
 # 👨‍💻 About Me
 I'm Front-end Developer specializing in building responsive, animation-rich web experiences.
 My stack:
@@ -18,7 +17,7 @@ NPM,
 ESLint,
 Git,
 Vercel,
-Clen code enforced.
+Clean code enforced.
 I work with an AI-assisted workflow (Claude Code, Cursor) — not as a shortcut, but as a tool to prototype faster and learn deeper.
 
 
@@ -49,4 +48,7 @@ I work with an AI-assisted workflow (Claude Code, Cursor) — not as a shortcut,
   <i>jump into the age of AI —</i><br>
   <img src="https://i.imgur.com/2myc0Ra.gif" alt="Trying to escape the letterboxing" width="370" />
 </p>
-| <p align="center"><b>Work Focus Flow</b><br><img src="https://i.imgur.com/SVk438l.gif" alt="Work Focus Flow preview" width="350" /></p> | [Demo](https://work-focus-flow.vercel.app/) / 🚧 Repo with readme soon | This app brings together all the most popular features you need to create the perfect environment for work, study, or simply relaxing. No more juggling multiple tabs—one for music, nature sounds and another for the Pomodoro timer—and no more ads or spending ages searching for that one perfect playlist. Here, you can easily create your ideal environment all in one place.<br>$`\small \color{red}{\textit{(still in development)}}`$ | ✅ Playlists (mood + work-type aware)<br>✅ Real-time audio visualizer<br>🔄 Pomodoro & custom session timers<br>✅ Four session modes<br>🔄 Account management & sync<br>✅ Session history & stats<br>🔄 Curated track library<br>🔄 Saved presets<br>🔄 Nature sounds | <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js" /><br><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" /><br><img src="https://img.shields.io/badge/TailwindCSS_4-000000?style=for-the-badge&logo=tailwindcss" /><br><img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer" /><br><img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react" /><br><img src="https://img.shields.io/badge/Web_Audio_API-000000?style=for-the-badge&logo=javascript" /><br><img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic" /><br><img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase" /><br><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" /> |
+
+| Name | Link/Repo | Description | Features | Technologies |
+| ---- | --------- | ----------- | -------- | ------------ |
+| <p align="center"><b>Work Focus Flow</b><br><img src="https://i.imgur.com/SVk438l.gif" alt="Work Focus Flow preview" width="260" /></p> | [Demo](https://work-focus-flow.vercel.app/) / 🚧 Repo with readme soon | This app brings together all the most popular features you need to create the perfect environment for work, study, or simply relaxing. No more juggling multiple tabs—one for music, nature sounds and another for the Pomodoro timer—and no more ads or spending ages searching for that one perfect playlist. Here, you can easily create your ideal environment all in one place.<br>$`\small \color{red}{\textit{(still in development)}}`$ | ✅ Playlists (mood + work-type aware)<br>✅ Real-time audio visualizer<br>🔄 Pomodoro & custom session timers<br>✅ Four session modes<br>🔄 Account management & sync<br>✅ Session history & stats<br>🔄 Curated track library<br>🔄 Saved presets<br>🔄 Nature sounds | <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js" /><br><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" /><br><img src="https://img.shields.io/badge/TailwindCSS_4-000000?style=for-the-badge&logo=tailwindcss" /><br><img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer" /><br><img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react" /><br><img src="https://img.shields.io/badge/Web_Audio_API-000000?style=for-the-badge&logo=javascript" /><br><img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic" /><br><img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase" /><br><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" /> |
